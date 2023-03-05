@@ -13,7 +13,7 @@ Please update this as needed
 
 #How to export a conda  environment 
 
-Normally you would 
+Normally you would run a command like the following one to export your custome environment.
 
+```conda env export --no-build > environment.yml```
 
-conda env export --no-build > environment.yml
